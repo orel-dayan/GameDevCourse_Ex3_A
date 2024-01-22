@@ -1,6 +1,9 @@
-# Task 4 part A For GameDev Course 
+# Task 4 part A
 
-Things I change from lecture are 
-* Player's health system has added.
-* The player cannot shoot lasers without break , but must wait a certain time (0.5 second) between shots for the next shot .
-* I add play again button after game over .
+link iticho [here](https://oreldayan.itch.io/task4a)
+
+## Changes Made
+
+- **Player Health**: Added a health system for the player.
+- **Shooting Cooldown**: Players must wait 0.5 seconds between shots.
+- **Play Again Button**: Included a button to restart the game after game over.
